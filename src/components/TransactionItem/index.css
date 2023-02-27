@@ -1,0 +1,8 @@
+/* Write your CSS here */
+li {
+  border: 1px #7e858e solid;
+  border-top: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
